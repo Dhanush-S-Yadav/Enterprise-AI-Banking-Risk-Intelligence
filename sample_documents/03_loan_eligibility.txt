@@ -1,0 +1,32 @@
+Title: Loan Eligibility Guidelines
+Policy ID: DEMO-LN-101
+Version: 1.1
+Effective Date: 2026-01-10
+Category: Lending
+Document Owner: Retail Lending
+Classification: SYNTHETIC / TRAINING ONLY
+
+1. Purpose and Applicability
+Provide front-line employees with a consistent document-verification checklist for loan intake. This standard is internal to the imaginary Atlas Demo Bank and must not be treated as law, a real bank policy, or advice to customers.
+
+2. Roles and Responsibilities
+The Retail Lending owns the document and maintains an evidence trail. Front-line personnel gather records, reviewers validate conditions, and managers approve documented exceptions according to their role.
+
+3. Required Controls
+3.1 Confirm applicant age at least 21 and at most 60 at scheduled loan maturity for this invented product.
+3.2 Request two independent income evidence sources, such as payslips and verified bank statements.
+3.3 Confirm employment or business continuity for at least 12 months, or flag a policy exception.
+3.4 Calculate illustrative debt-to-income ratio using verified liabilities and proposed monthly installment.
+
+4. Synthetic Case Examples
+4.1 A self-employed fictional applicant may submit tax summaries and bank credits for review.
+4.2 Missing liabilities must be treated as incomplete information, never as zero liabilities.
+
+5. Evidence and Audit Requirements
+For all relevant lending activities, retain the case identifier, document version, reviewer, date, control result, evidence reference, and any exception rationale. A missing document is an evidence gap; it does not prove control compliance or misconduct.
+
+6. Escalation and Human Judgment
+Where a condition is unclear, employees must seek review by the designated owner. The example thresholds are invented for a learning project and cannot be used to decide actual banking services.
+
+7. Limitations
+This document is synthetic. It does not represent an actual bank, regulator, statute, customer account, production incident, or live transaction. Any AI-generated summary must cite this source and acknowledge missing evidence.

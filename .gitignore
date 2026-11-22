@@ -1,0 +1,42 @@
+.env
+.venv/
+venv/
+data/
+node_modules/
+frontend/dist/
+__pycache__/
+*.pyc
+.pytest_cache/
+.DS_Store
+# Python virtual environment
+.venv/
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Node dependencies and build files
+node_modules/
+dist/
+
+# Environment secrets
+.env
+.env.*
+!.env.example
+
+# Local banking application data
+data/
+storage/
+uploads/
+reports/
+chroma_db/
+chroma_storage/
+
+# Local backups and generated files
+/docker/
+*.zip
+*.log
+results_*.json
+
+# Editor settings
+.vscode/

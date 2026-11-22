@@ -1,0 +1,31 @@
+Title: Credit Approval Exception Register Procedures
+Policy ID: DEMO-CR-803
+Version: 1.0
+Effective Date: 2026-04-06
+Category: Credit Risk
+Document Owner: Credit Governance
+Classification: SYNTHETIC / TRAINING ONLY
+
+1. Purpose and Applicability
+Define recordkeeping for demonstrative exceptions to credit policy. This standard is internal to the imaginary Atlas Demo Bank and must not be treated as law, a real bank policy, or advice to customers.
+
+2. Roles and Responsibilities
+The Credit Governance owns the document and maintains an evidence trail. Front-line personnel gather records, reviewers validate conditions, and managers approve documented exceptions according to their role.
+
+3. Required Controls
+3.1 Each exception record must identify the relevant policy version and control threshold.
+3.2 Document original assessment, exception rationale, approving officer and approval date.
+3.3 Expired exceptions require new review rather than automatic extension.
+3.4 Periodic reviews should test whether override patterns are increasing.
+
+4. Synthetic Case Examples
+4.1 A fictional loan exception missing approver details is recorded as an evidence gap.
+
+5. Evidence and Audit Requirements
+For all relevant credit risk activities, retain the case identifier, document version, reviewer, date, control result, evidence reference, and any exception rationale. A missing document is an evidence gap; it does not prove control compliance or misconduct.
+
+6. Escalation and Human Judgment
+Where a condition is unclear, employees must seek review by the designated owner. The example thresholds are invented for a learning project and cannot be used to decide actual banking services.
+
+7. Limitations
+This document is synthetic. It does not represent an actual bank, regulator, statute, customer account, production incident, or live transaction. Any AI-generated summary must cite this source and acknowledge missing evidence.

@@ -1,0 +1,31 @@
+Title: Information Access Control Policy
+Policy ID: DEMO-CY-503
+Version: 1.0
+Effective Date: 2026-03-01
+Category: Cybersecurity
+Document Owner: IAM Team
+Classification: SYNTHETIC / TRAINING ONLY
+
+1. Purpose and Applicability
+Describe role-based access control checks in this fictional enterprise. This standard is internal to the imaginary Atlas Demo Bank and must not be treated as law, a real bank policy, or advice to customers.
+
+2. Roles and Responsibilities
+The IAM Team owns the document and maintains an evidence trail. Front-line personnel gather records, reviewers validate conditions, and managers approve documented exceptions according to their role.
+
+3. Required Controls
+3.1 All privileged access requires documented approval and periodic review.
+3.2 Provisioning requests must include the business need, approver and duration.
+3.3 Terminated user access must be revoked promptly and exceptions logged.
+3.4 Service credentials must not be embedded in application source code.
+
+4. Synthetic Case Examples
+4.1 The test auditor finds a stale administrative role and requests immediate review.
+
+5. Evidence and Audit Requirements
+For all relevant cybersecurity activities, retain the case identifier, document version, reviewer, date, control result, evidence reference, and any exception rationale. A missing document is an evidence gap; it does not prove control compliance or misconduct.
+
+6. Escalation and Human Judgment
+Where a condition is unclear, employees must seek review by the designated owner. The example thresholds are invented for a learning project and cannot be used to decide actual banking services.
+
+7. Limitations
+This document is synthetic. It does not represent an actual bank, regulator, statute, customer account, production incident, or live transaction. Any AI-generated summary must cite this source and acknowledge missing evidence.

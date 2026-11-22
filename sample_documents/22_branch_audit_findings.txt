@@ -1,0 +1,31 @@
+Title: Branch Audit Findings: Synthetic Quarter Review
+Policy ID: DEMO-AU-602
+Version: 1.0
+Effective Date: 2026-04-10
+Category: Audit
+Document Owner: Internal Audit
+Classification: SYNTHETIC / TRAINING ONLY
+
+1. Purpose and Applicability
+Summarize fictional first-quarter branch control findings. This standard is internal to the imaginary Atlas Demo Bank and must not be treated as law, a real bank policy, or advice to customers.
+
+2. Roles and Responsibilities
+The Internal Audit owns the document and maintains an evidence trail. Front-line personnel gather records, reviewers validate conditions, and managers approve documented exceptions according to their role.
+
+3. Required Controls
+3.1 Finding F-01: two of twenty sampled vault-access logs lacked secondary reviewer evidence.
+3.2 Finding F-02: one of fifteen daily reconciliation exceptions had no closure owner.
+3.3 Finding F-03: four loan-file samples had complete identity documents but lacked exception rationale.
+3.4 Management action plans assign closure ownership to Branch Operations and Credit Governance; completion is not yet evidenced.
+
+4. Synthetic Case Examples
+4.1 The audit team should verify supporting records before closing each finding.
+
+5. Evidence and Audit Requirements
+For all relevant audit activities, retain the case identifier, document version, reviewer, date, control result, evidence reference, and any exception rationale. A missing document is an evidence gap; it does not prove control compliance or misconduct.
+
+6. Escalation and Human Judgment
+Where a condition is unclear, employees must seek review by the designated owner. The example thresholds are invented for a learning project and cannot be used to decide actual banking services.
+
+7. Limitations
+This document is synthetic. It does not represent an actual bank, regulator, statute, customer account, production incident, or live transaction. Any AI-generated summary must cite this source and acknowledge missing evidence.

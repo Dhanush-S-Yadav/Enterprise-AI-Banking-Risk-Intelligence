@@ -1,0 +1,31 @@
+Title: Personal Loan Policy
+Policy ID: DEMO-LN-102
+Version: 1.0
+Effective Date: 2026-01-20
+Category: Lending
+Document Owner: Personal Lending
+Classification: SYNTHETIC / TRAINING ONLY
+
+1. Purpose and Applicability
+Describe unsecured personal loan controls used only in the demonstration bank. This standard is internal to the imaginary Atlas Demo Bank and must not be treated as law, a real bank policy, or advice to customers.
+
+2. Roles and Responsibilities
+The Personal Lending owns the document and maintains an evidence trail. Front-line personnel gather records, reviewers validate conditions, and managers approve documented exceptions according to their role.
+
+3. Required Controls
+3.1 Illustrative principal range is INR 50,000 to INR 1,000,000 subject to credit risk approval.
+3.2 Illustrative tenor range is 12 to 60 months and requires affordability calculation.
+3.3 A self-declared salary alone is insufficient; supporting documents must be checked.
+3.4 Exceptions require lender notes and manager escalation.
+
+4. Synthetic Case Examples
+4.1 A customer asks for INR 900,000 with only one payslip; request additional evidence before recommendation.
+
+5. Evidence and Audit Requirements
+For all relevant lending activities, retain the case identifier, document version, reviewer, date, control result, evidence reference, and any exception rationale. A missing document is an evidence gap; it does not prove control compliance or misconduct.
+
+6. Escalation and Human Judgment
+Where a condition is unclear, employees must seek review by the designated owner. The example thresholds are invented for a learning project and cannot be used to decide actual banking services.
+
+7. Limitations
+This document is synthetic. It does not represent an actual bank, regulator, statute, customer account, production incident, or live transaction. Any AI-generated summary must cite this source and acknowledge missing evidence.

@@ -1,0 +1,32 @@
+Title: Fraud Investigation Report: Synthetic Phishing Incident
+Policy ID: DEMO-FR-301
+Version: 1.0
+Effective Date: 2026-03-02
+Category: Fraud
+Document Owner: Fraud Response
+Classification: SYNTHETIC / TRAINING ONLY
+
+1. Purpose and Applicability
+Record one fully fictional phishing case for training only. This standard is internal to the imaginary Atlas Demo Bank and must not be treated as law, a real bank policy, or advice to customers.
+
+2. Roles and Responsibilities
+The Fraud Response owns the document and maintains an evidence trail. Front-line personnel gather records, reviewers validate conditions, and managers approve documented exceptions according to their role.
+
+3. Required Controls
+3.1 A demo customer reported an unsolicited message impersonating a service desk on 2026-02-25.
+3.2 Investigation notes show three simulated failed login attempts followed by a password reset request; no real transaction systems were accessed.
+3.3 The response team blocked the fictional test account and retained message screenshots as evidence.
+3.4 The preliminary hypothesis is social engineering; the available report does not establish criminal responsibility.
+
+4. Synthetic Case Examples
+4.1 Observed indicator: sender domain resembles, but is not the same as, the fictional bank helpdesk.
+4.2 Recommendation: verify the sender domain, notify affected teams, and train staff on secure verification channels.
+
+5. Evidence and Audit Requirements
+For all relevant fraud activities, retain the case identifier, document version, reviewer, date, control result, evidence reference, and any exception rationale. A missing document is an evidence gap; it does not prove control compliance or misconduct.
+
+6. Escalation and Human Judgment
+Where a condition is unclear, employees must seek review by the designated owner. The example thresholds are invented for a learning project and cannot be used to decide actual banking services.
+
+7. Limitations
+This document is synthetic. It does not represent an actual bank, regulator, statute, customer account, production incident, or live transaction. Any AI-generated summary must cite this source and acknowledge missing evidence.

@@ -1,0 +1,31 @@
+Title: Operational Risk Management Framework
+Policy ID: DEMO-OR-402
+Version: 1.0
+Effective Date: 2026-02-01
+Category: Operational Risk
+Document Owner: Operational Risk Office
+Classification: SYNTHETIC / TRAINING ONLY
+
+1. Purpose and Applicability
+Define fictional risk identification, assessment and mitigation tracking. This standard is internal to the imaginary Atlas Demo Bank and must not be treated as law, a real bank policy, or advice to customers.
+
+2. Roles and Responsibilities
+The Operational Risk Office owns the document and maintains an evidence trail. Front-line personnel gather records, reviewers validate conditions, and managers approve documented exceptions according to their role.
+
+3. Required Controls
+3.1 Risks are assessed on a demonstrative 1-to-5 likelihood and impact scale.
+3.2 High-priority items require a named owner, target date, and independent closure validation.
+3.3 Control failures must be categorized by process, people, technology or external events.
+3.4 Residual risk assessments must include rationale and documented supporting evidence.
+
+4. Synthetic Case Examples
+4.1 A fictional outage with likelihood 3 and impact 4 gets illustrative risk score 12, not a predictive real-world loss amount.
+
+5. Evidence and Audit Requirements
+For all relevant operational risk activities, retain the case identifier, document version, reviewer, date, control result, evidence reference, and any exception rationale. A missing document is an evidence gap; it does not prove control compliance or misconduct.
+
+6. Escalation and Human Judgment
+Where a condition is unclear, employees must seek review by the designated owner. The example thresholds are invented for a learning project and cannot be used to decide actual banking services.
+
+7. Limitations
+This document is synthetic. It does not represent an actual bank, regulator, statute, customer account, production incident, or live transaction. Any AI-generated summary must cite this source and acknowledge missing evidence.

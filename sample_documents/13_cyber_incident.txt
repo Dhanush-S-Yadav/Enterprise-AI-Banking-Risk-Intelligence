@@ -1,0 +1,31 @@
+Title: Cybersecurity Incident Response Plan
+Policy ID: DEMO-CY-501
+Version: 2.0
+Effective Date: 2026-03-15
+Category: Cybersecurity
+Document Owner: Security Operations
+Classification: SYNTHETIC / TRAINING ONLY
+
+1. Purpose and Applicability
+Specify demonstration incident classification and recovery responsibilities. This standard is internal to the imaginary Atlas Demo Bank and must not be treated as law, a real bank policy, or advice to customers.
+
+2. Roles and Responsibilities
+The Security Operations owns the document and maintains an evidence trail. Front-line personnel gather records, reviewers validate conditions, and managers approve documented exceptions according to their role.
+
+3. Required Controls
+3.1 Containment actions must preserve relevant logs and avoid destroying evidence.
+3.2 Critical simulated incidents are escalated to Security Operations and the Incident Manager immediately.
+3.3 Post-incident reports list impact, containment actions, timeline, root-cause uncertainty and lessons learned.
+3.4 Access to evidence is restricted to authorized incident response staff.
+
+4. Synthetic Case Examples
+4.1 An invented credential phishing simulation is isolated from production and documented as training.
+
+5. Evidence and Audit Requirements
+For all relevant cybersecurity activities, retain the case identifier, document version, reviewer, date, control result, evidence reference, and any exception rationale. A missing document is an evidence gap; it does not prove control compliance or misconduct.
+
+6. Escalation and Human Judgment
+Where a condition is unclear, employees must seek review by the designated owner. The example thresholds are invented for a learning project and cannot be used to decide actual banking services.
+
+7. Limitations
+This document is synthetic. It does not represent an actual bank, regulator, statute, customer account, production incident, or live transaction. Any AI-generated summary must cite this source and acknowledge missing evidence.

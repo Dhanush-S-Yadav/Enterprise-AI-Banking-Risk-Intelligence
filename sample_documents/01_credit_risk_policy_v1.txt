@@ -1,0 +1,32 @@
+Title: Banking Credit Risk Policy
+Policy ID: DEMO-CR-001
+Version: 1.0
+Effective Date: 2025-01-15
+Category: Credit Risk
+Document Owner: Credit Risk Office
+Classification: SYNTHETIC / TRAINING ONLY
+
+1. Purpose and Applicability
+Establish a reproducible synthetic framework for reviewing unsecured lending requests. This standard is internal to the imaginary Atlas Demo Bank and must not be treated as law, a real bank policy, or advice to customers.
+
+2. Roles and Responsibilities
+The Credit Risk Office owns the document and maintains an evidence trail. Front-line personnel gather records, reviewers validate conditions, and managers approve documented exceptions according to their role.
+
+3. Required Controls
+3.1 Minimum illustrative credit bureau score is 680; cases below 680 must be declined or recorded for exceptional review.
+3.2 Monthly total obligations after the proposed loan should not exceed 50 percent of verified gross monthly income.
+3.3 Applications above INR 1,500,000 require a second reviewer before final approval.
+3.4 Risk analysts must review recent payment delays and income stability before recommending any approval.
+
+4. Synthetic Case Examples
+4.1 A fictional applicant with a score of 700 and a 46 percent debt ratio may proceed to further verification, not automatic approval.
+4.2 A score of 665 triggers exceptional review; document the reason and reviewer authorization.
+
+5. Evidence and Audit Requirements
+For all relevant credit risk activities, retain the case identifier, document version, reviewer, date, control result, evidence reference, and any exception rationale. A missing document is an evidence gap; it does not prove control compliance or misconduct.
+
+6. Escalation and Human Judgment
+Where a condition is unclear, employees must seek review by the designated owner. The example thresholds are invented for a learning project and cannot be used to decide actual banking services.
+
+7. Limitations
+This document is synthetic. It does not represent an actual bank, regulator, statute, customer account, production incident, or live transaction. Any AI-generated summary must cite this source and acknowledge missing evidence.

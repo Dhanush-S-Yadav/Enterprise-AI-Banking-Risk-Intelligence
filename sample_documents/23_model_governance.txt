@@ -1,0 +1,31 @@
+Title: AI Model Governance and Human Review Policy
+Policy ID: DEMO-AI-901
+Version: 1.0
+Effective Date: 2026-04-12
+Category: AI Governance
+Document Owner: Model Risk Office
+Classification: SYNTHETIC / TRAINING ONLY
+
+1. Purpose and Applicability
+Provide controls for local generative AI demonstrations that analyze sensitive categories. This standard is internal to the imaginary Atlas Demo Bank and must not be treated as law, a real bank policy, or advice to customers.
+
+2. Roles and Responsibilities
+The Model Risk Office owns the document and maintains an evidence trail. Front-line personnel gather records, reviewers validate conditions, and managers approve documented exceptions according to their role.
+
+3. Required Controls
+3.1 Model answers must show source passages, uncertainty and human-review requirements.
+3.2 No automated loan approval or adverse customer determination is permitted from a language-model narrative alone.
+3.3 Prompt or retrieval failures must be recorded as quality incidents.
+3.4 Synthetic documents must be labeled clearly to avoid confusion with operative legal rules.
+
+4. Synthetic Case Examples
+4.1 A hallucinated loan threshold is rejected when no matching policy source is found.
+
+5. Evidence and Audit Requirements
+For all relevant ai governance activities, retain the case identifier, document version, reviewer, date, control result, evidence reference, and any exception rationale. A missing document is an evidence gap; it does not prove control compliance or misconduct.
+
+6. Escalation and Human Judgment
+Where a condition is unclear, employees must seek review by the designated owner. The example thresholds are invented for a learning project and cannot be used to decide actual banking services.
+
+7. Limitations
+This document is synthetic. It does not represent an actual bank, regulator, statute, customer account, production incident, or live transaction. Any AI-generated summary must cite this source and acknowledge missing evidence.

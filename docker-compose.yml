@@ -1,0 +1,17 @@
+# Optional local-only Docker deployment; direct Windows Python/npm is fully supported.
+services:
+  backend:
+    build: {context: ., dockerfile: backend/Dockerfile}
+    ports: ["127.0.0.1:8000:8000"]
+    environment:
+      OLLAMA_URL: http://host.docker.internal:11434
+      OLLAMA_MODEL: llama3.1:8b
+      FRONTEND_ORIGIN: http://localhost:5173
+    extra_hosts: ["host.docker.internal:host-gateway"]
+    volumes: ["./data:/project/data"]
+  frontend:
+    build: {context: ., dockerfile: frontend/Dockerfile}
+    environment:
+      VITE_BACKEND_PROXY: http://backend:8000
+    ports: ["127.0.0.1:5173:5173"]
+    depends_on: [backend]

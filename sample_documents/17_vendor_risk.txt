@@ -1,0 +1,31 @@
+Title: Third Party Vendor Risk Assessment
+Policy ID: DEMO-VR-701
+Version: 1.0
+Effective Date: 2026-02-21
+Category: Third Party Risk
+Document Owner: Vendor Risk
+Classification: SYNTHETIC / TRAINING ONLY
+
+1. Purpose and Applicability
+Provide controls for selecting and monitoring hypothetical technology vendors. This standard is internal to the imaginary Atlas Demo Bank and must not be treated as law, a real bank policy, or advice to customers.
+
+2. Roles and Responsibilities
+The Vendor Risk owns the document and maintains an evidence trail. Front-line personnel gather records, reviewers validate conditions, and managers approve documented exceptions according to their role.
+
+3. Required Controls
+3.1 Perform security and continuity due diligence before onboarding a critical vendor.
+3.2 Record access rights and data-processing arrangements in approved contracts.
+3.3 Review supplier performance and incidents at established intervals.
+3.4 Exit plans should identify data recovery and access revocation steps.
+
+4. Synthetic Case Examples
+4.1 A training vendor storing synthetic support documents requires documented data-retention terms.
+
+5. Evidence and Audit Requirements
+For all relevant third party risk activities, retain the case identifier, document version, reviewer, date, control result, evidence reference, and any exception rationale. A missing document is an evidence gap; it does not prove control compliance or misconduct.
+
+6. Escalation and Human Judgment
+Where a condition is unclear, employees must seek review by the designated owner. The example thresholds are invented for a learning project and cannot be used to decide actual banking services.
+
+7. Limitations
+This document is synthetic. It does not represent an actual bank, regulator, statute, customer account, production incident, or live transaction. Any AI-generated summary must cite this source and acknowledge missing evidence.

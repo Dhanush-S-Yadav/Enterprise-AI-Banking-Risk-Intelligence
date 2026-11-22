@@ -1,0 +1,31 @@
+Title: Know Your Customer Policy
+Policy ID: DEMO-KYC-201
+Version: 1.3
+Effective Date: 2026-02-15
+Category: Compliance
+Document Owner: Compliance Department
+Classification: SYNTHETIC / TRAINING ONLY
+
+1. Purpose and Applicability
+Provide an internal fictional identity verification standard, not a substitute for applicable law. This standard is internal to the imaginary Atlas Demo Bank and must not be treated as law, a real bank policy, or advice to customers.
+
+2. Roles and Responsibilities
+The Compliance Department owns the document and maintains an evidence trail. Front-line personnel gather records, reviewers validate conditions, and managers approve documented exceptions according to their role.
+
+3. Required Controls
+3.1 Verify identity using approved identification material and record the verification method.
+3.2 Flag incomplete or inconsistent address information for remediation.
+3.3 Periodic review cadence in this synthetic policy is 12 months for high-risk and 36 months for standard-risk profiles.
+3.4 Do not open a new account until essential customer identity evidence is present.
+
+4. Synthetic Case Examples
+4.1 A mismatch between submitted name and verified identity is an exception requiring manual review.
+
+5. Evidence and Audit Requirements
+For all relevant compliance activities, retain the case identifier, document version, reviewer, date, control result, evidence reference, and any exception rationale. A missing document is an evidence gap; it does not prove control compliance or misconduct.
+
+6. Escalation and Human Judgment
+Where a condition is unclear, employees must seek review by the designated owner. The example thresholds are invented for a learning project and cannot be used to decide actual banking services.
+
+7. Limitations
+This document is synthetic. It does not represent an actual bank, regulator, statute, customer account, production incident, or live transaction. Any AI-generated summary must cite this source and acknowledge missing evidence.

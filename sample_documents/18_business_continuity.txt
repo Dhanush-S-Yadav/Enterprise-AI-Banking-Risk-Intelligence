@@ -1,0 +1,31 @@
+Title: Business Continuity and Disaster Recovery Plan
+Policy ID: DEMO-BC-702
+Version: 1.0
+Effective Date: 2026-01-30
+Category: Continuity
+Document Owner: Continuity Office
+Classification: SYNTHETIC / TRAINING ONLY
+
+1. Purpose and Applicability
+Document response priorities in a fictional branch service disruption. This standard is internal to the imaginary Atlas Demo Bank and must not be treated as law, a real bank policy, or advice to customers.
+
+2. Roles and Responsibilities
+The Continuity Office owns the document and maintains an evidence trail. Front-line personnel gather records, reviewers validate conditions, and managers approve documented exceptions according to their role.
+
+3. Required Controls
+3.1 Maintain a list of essential business services and accountable recovery owners.
+3.2 Conduct scheduled tabletop tests and record achieved recovery times.
+3.3 Escalate test failures into remediation actions with owners.
+3.4 Restore customer-facing channels only after integrity and security checks.
+
+4. Synthetic Case Examples
+4.1 A simulated outage exercise measures restoration steps but does not prove production resilience.
+
+5. Evidence and Audit Requirements
+For all relevant continuity activities, retain the case identifier, document version, reviewer, date, control result, evidence reference, and any exception rationale. A missing document is an evidence gap; it does not prove control compliance or misconduct.
+
+6. Escalation and Human Judgment
+Where a condition is unclear, employees must seek review by the designated owner. The example thresholds are invented for a learning project and cannot be used to decide actual banking services.
+
+7. Limitations
+This document is synthetic. It does not represent an actual bank, regulator, statute, customer account, production incident, or live transaction. Any AI-generated summary must cite this source and acknowledge missing evidence.
